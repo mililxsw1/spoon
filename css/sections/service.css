@@ -1,0 +1,32 @@
+.service {
+   margin-top: 117px;
+}
+.service__content {
+}
+.service__main-text {
+    max-width: 507px;
+}
+
+.service__list {
+    margin-top: 54px;
+}
+.service__item {
+    /* display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap; */
+}
+.service__title {
+font-family: var(--fontLF);
+font-weight: 700;
+font-size: 16px;
+line-height: 150%;
+color: #000;
+}
+.servise__text {
+font-family: var(--fontIBM);
+font-weight: 400;
+font-size: 13px;
+line-height: 185%;
+color: #999;
+}
